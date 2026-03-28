@@ -1,5 +1,6 @@
 using System;
 
+// I used Json to load and read file.
 class Program
 {
     public Journal journal = new Journal();
