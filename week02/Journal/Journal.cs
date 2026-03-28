@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Text.Json;
 
+// I used Json to load and save file.
 public class Journal
 {
     private List<JournalEntry> entries = new List<JournalEntry>();
